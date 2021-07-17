@@ -16,7 +16,7 @@
 	<div class="wrapper">
 		<ul>
 			<li><a href="#">HOME</a></li>
-			<li><a href="#">ABOUT OUR PRODUCT</a></li>
+			<li><a href="aboutus.php">ABOUT OUR PRODUCT</a></li>
 		    <li><a href="#">ADMIN</a></li>
 		    <li><a href="#">PRODUCTS</a></li>
 		    <li><a href="#">SHOP</a></li>
